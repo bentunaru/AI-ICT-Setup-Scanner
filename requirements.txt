@@ -1,0 +1,11 @@
+# Core / Web App
+streamlit
+
+# Backend / Services
+openai>=1.75
+
+# Image Handling
+Pillow
+
+# Environment Variables
+python-dotenv
